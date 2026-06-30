@@ -1,5 +1,5 @@
 # pni_python_2026
-For Advanced Python workshop (PNI, summer 2026), by Jiayi Zhang (jz6521). This is a continuation of the Intro Python workshop (led by Kirsten Ziman, Ph.D.). You can find more information and the syllabus (here)[https://docs.google.com/document/d/1HSAUxvA5Z9ZNO923XZF9UFkeOaPeXGPUk0huQEsIk9k/edit?usp=sharing].
+For Advanced Python workshop (PNI, summer 2026), by Jiayi Zhang (jz6521). This is a continuation of the Intro Python workshop (led by Kirsten Ziman, Ph.D.). You can find more information and the syllabus [here](https://docs.google.com/document/d/1HSAUxvA5Z9ZNO923XZF9UFkeOaPeXGPUk0huQEsIk9k/edit?usp=sharing).
 
 ## Content Roadmap (subject to change)
 |  Session   | Date |  Content |
